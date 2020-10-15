@@ -9,14 +9,14 @@ function TopContent() {
                 <h2>Projects</h2>
                 <ul>
                     <li>
-                        <a href="https://clone-580b7.firebaseapp.com/">
+                        <a href="https://clone-580b7.firebaseapp.com/" target="_blank">
                             AmazonPup
                          <br/>
                             <span>Front-end Amazon Clone using React with a puppy theme</span>
                         </a>
                     </li>
                     <li>
-                        <a href="https://peaceful-brook-57472.herokuapp.com/">
+                        <a href="https://peaceful-brook-57472.herokuapp.com/" target="_blank">
                         Budget Tracker
                         <br/>
                         <span>Keep track of a set budget online or offline
@@ -26,7 +26,7 @@ function TopContent() {
                         </a>
                     </li>
                     <li>
-                        <a href="https://jesusfernandorios.github.io/WeatherApp/">
+                        <a href="https://jesusfernandorios.github.io/WeatherApp/" target="_blank">
                             Weather App
                          <br/>
                             <span>Obtain Weather information of a specific City
