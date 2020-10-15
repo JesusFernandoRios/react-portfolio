@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/JesusFernandoRios/react-portfolio.git/static/css/main.dcffcf70.chunk.css",
+    "main.js": "/JesusFernandoRios/react-portfolio.git/static/js/main.1e156351.chunk.js",
+    "main.js.map": "/JesusFernandoRios/react-portfolio.git/static/js/main.1e156351.chunk.js.map",
+    "runtime-main.js": "/JesusFernandoRios/react-portfolio.git/static/js/runtime-main.0868d982.js",
+    "runtime-main.js.map": "/JesusFernandoRios/react-portfolio.git/static/js/runtime-main.0868d982.js.map",
+    "static/js/2.9cc72f09.chunk.js": "/JesusFernandoRios/react-portfolio.git/static/js/2.9cc72f09.chunk.js",
+    "static/js/2.9cc72f09.chunk.js.map": "/JesusFernandoRios/react-portfolio.git/static/js/2.9cc72f09.chunk.js.map",
+    "index.html": "/JesusFernandoRios/react-portfolio.git/index.html",
+    "precache-manifest.6bdcd1155a1f3b344e8c816af3ef1779.js": "/JesusFernandoRios/react-portfolio.git/precache-manifest.6bdcd1155a1f3b344e8c816af3ef1779.js",
+    "service-worker.js": "/JesusFernandoRios/react-portfolio.git/service-worker.js",
+    "static/css/main.dcffcf70.chunk.css.map": "/JesusFernandoRios/react-portfolio.git/static/css/main.dcffcf70.chunk.css.map",
+    "static/js/2.9cc72f09.chunk.js.LICENSE.txt": "/JesusFernandoRios/react-portfolio.git/static/js/2.9cc72f09.chunk.js.LICENSE.txt",
+    "static/media/Dayplanner.png": "/JesusFernandoRios/react-portfolio.git/static/media/Dayplanner.3c88669d.png",
+    "static/media/In-quotations.png": "/JesusFernandoRios/react-portfolio.git/static/media/In-quotations.fecb995b.png",
+    "static/media/Resume.pdf": "/JesusFernandoRios/react-portfolio.git/static/media/Resume.3caa8f9b.pdf",
+    "static/media/burger.png": "/JesusFernandoRios/react-portfolio.git/static/media/burger.57441a1f.png",
+    "static/media/codequiz.png": "/JesusFernandoRios/react-portfolio.git/static/media/codequiz.3008593d.png",
+    "static/media/notetaker.png": "/JesusFernandoRios/react-portfolio.git/static/media/notetaker.61ad53ed.png",
+    "static/media/weather-app.png": "/JesusFernandoRios/react-portfolio.git/static/media/weather-app.287067ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0868d982.js",
+    "static/js/2.9cc72f09.chunk.js",
+    "static/css/main.dcffcf70.chunk.css",
+    "static/js/main.1e156351.chunk.js"
+  ]
+}
