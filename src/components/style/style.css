@@ -28,7 +28,7 @@ canvas {
     top: 0px;
 }
 
-.main, .contact__container {
+.main {
     margin-top: 30px;
     display: flex;
     flex-direction: column;
@@ -158,20 +158,24 @@ form {
 }
 
 .contact__container {
+    margin-top: 50px;
     display: flex;
-    margin-top: 10rem;
-    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%
 }
 
 form {
-    /* background-color: rgb(5, 110, 14); */
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
+    width: auto;
+    margin-left: 10%;
 }
 
-.form__container {
-    padding: 30px;
+textarea {
+    height: 200px;
+    width: 90%;
+}
+
+input {
+    width: 90%;
 }
 
 button {
