@@ -28,14 +28,17 @@ canvas {
     top: 0px;
 }
 
-.main, .mid {
+.main, .contact__container {
     margin-top: 30px;
     display: flex;
     flex-direction: column;
-    width: 50%;
+    max-width: 80%;
     margin-left: auto;
     margin-right: auto;
-    
+}
+
+form {
+    width: min-content;
 }
 
 .mern__logo {
@@ -64,7 +67,7 @@ canvas {
 }
 
 .footer {
-    position: fixed;
+    position: sticky;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -78,10 +81,24 @@ canvas {
 }
 
 
-.mid{
+.mid {
+    margin-top: 30px;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.column__one {
+    margin-left: 9%;
+}
+.column__two {
+    margin-left: 9%
 }
 
 .projects {
@@ -133,8 +150,7 @@ canvas {
 .resume {
     font-size: 25px;
     border-radius: 30px;
-    margin-top: 2rem;
-    margin-left: 3rem;
+    margin-left: 3%;
 }
 
 .resume:hover {
@@ -149,6 +165,7 @@ canvas {
 
 form {
     /* background-color: rgb(5, 110, 14); */
+    display: flex;
     justify-content: center;
     margin-top: 30px;
 }
