@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.8936c815.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.a6422bee.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.a6422bee.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.339ed9c9.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.35cd471c.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.35cd471c.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
-    "static/js/2.981dfa55.chunk.js": "/react-portfolio/static/js/2.981dfa55.chunk.js",
-    "static/js/2.981dfa55.chunk.js.map": "/react-portfolio/static/js/2.981dfa55.chunk.js.map",
+    "static/js/2.789c1523.chunk.js": "/react-portfolio/static/js/2.789c1523.chunk.js",
+    "static/js/2.789c1523.chunk.js.map": "/react-portfolio/static/js/2.789c1523.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.cf91d492d98442028bc402cd42825ad4.js": "/react-portfolio/precache-manifest.cf91d492d98442028bc402cd42825ad4.js",
+    "precache-manifest.c4e8b64a989e00d7f338d540ddacf818.js": "/react-portfolio/precache-manifest.c4e8b64a989e00d7f338d540ddacf818.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.8936c815.chunk.css.map": "/react-portfolio/static/css/main.8936c815.chunk.css.map",
-    "static/js/2.981dfa55.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.981dfa55.chunk.js.LICENSE.txt",
+    "static/css/main.339ed9c9.chunk.css.map": "/react-portfolio/static/css/main.339ed9c9.chunk.css.map",
+    "static/js/2.789c1523.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.789c1523.chunk.js.LICENSE.txt",
     "static/media/Dayplanner.png": "/react-portfolio/static/media/Dayplanner.3c88669d.png",
     "static/media/In-quotations.png": "/react-portfolio/static/media/In-quotations.fecb995b.png",
     "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.3caa8f9b.pdf",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
-    "static/js/2.981dfa55.chunk.js",
-    "static/css/main.8936c815.chunk.css",
-    "static/js/main.a6422bee.chunk.js"
+    "static/js/2.789c1523.chunk.js",
+    "static/css/main.339ed9c9.chunk.css",
+    "static/js/main.35cd471c.chunk.js"
   ]
 }
