@@ -8,7 +8,7 @@ function Project({image, desc, repo}) {
 
             <p>{desc}</p>
 
-            <a href={repo} title="Repository" target="_blank" className="fa fa-github repo"></a>
+            <a href={repo} title="Repository" target="_blank" className="fa fa-github repo" rel="noopener noreferrer"></a>
             
         </div>
     )

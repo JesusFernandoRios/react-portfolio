@@ -37,10 +37,6 @@ canvas {
     margin-right: auto;
 }
 
-form {
-    width: min-content;
-}
-
 .mern__logo {
     width: 120px;
     margin-left: 20px;
@@ -67,9 +63,8 @@ form {
 }
 
 .footer {
-    position: sticky;
-    left: 0;
-    bottom: 0;
+    margin-top: 20px;
+    bottom: 1px;
     width: 100%;
     text-align: center;
 }
@@ -99,6 +94,17 @@ form {
 }
 .column__two {
     margin-left: 9%
+}
+
+.column__three {
+    display: flex;
+    margin-top: 50px;
+    width: 80%;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 9%;
+    max-width: 80%;
+    flex-wrap: wrap;
 }
 
 .projects {
@@ -153,29 +159,44 @@ form {
     margin-left: 3%;
 }
 
+.email {
+    color: rgb(5, 110, 14);
+}
+
 .resume:hover {
     color:  rgb(5, 110, 14);
 }
 
 .contact__container {
-    margin-top: 50px;
+    margin-top: 10px;
     display: flex;
-    margin-left: 10%;
-    margin-right: 10%
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact__form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 20px;
 }
 
 form {
-    width: auto;
-    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    width: 100%;
 }
 
 textarea {
     height: 200px;
     width: 90%;
+    max-width: 90%;
 }
 
 input {
     width: 90%;
+    max-width: 90%;
 }
 
 button {
@@ -184,6 +205,8 @@ button {
     color: white;
     padding: 10px;
     margin-top: 15px;
+    width: 50%;
+    align-self: center;
 }
 
 button:hover {
@@ -229,4 +252,25 @@ button:hover {
 .fa-github {
     background: white;
     color: black;
+}
+
+.smallIcons {
+    width: 60px;
+}
+
+.iconBackground {
+    background-color: white;
+    border-radius: 30px;
+}
+
+.npm {
+    width: 60px;
+    background-color: red;
+    border-radius: 30px;
+}
+
+.bootstrap {
+    width: 60px;
+    background-color:purple;
+    border-radius: 30px;
 }
