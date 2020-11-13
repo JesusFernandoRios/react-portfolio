@@ -14,6 +14,7 @@ function Main() {
                 <div className="intro">
                    <h1>Jesus Fernando Rios</h1>
                     <h2>Web Developer | Phoenix, AZ</h2>
+                    <h3 className="email">Jesusfernandorios@outlook.com</h3>
                     <p>
                         I've worked my way up in the Restaurant Industry, which lead me to become Head Sushi Chef at a local Japanese restaurant. 
                         Although this has been fulfilling, I've always been drawn towards my hobbies involving computers. 
