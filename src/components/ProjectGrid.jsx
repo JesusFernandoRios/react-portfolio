@@ -29,9 +29,9 @@ function Projects() {
                 />
 
                 <Project 
-                image={require('../img/In-quotations.png')}
-                desc={'"In Quotations" An application designed to allow a user to quickly find up to five popular quotes by keyword search or by author.'}
-                repo={"https://github.com/tiffcrockett/In-Quotations.github.io.git"}
+                image={require('../img/googlebksrch.png')}
+                desc={"Search and save book titles using my API. It Takes book information from google books and lets you save them for later"}
+                repo={"https://github.com/JesusFernandoRios/googleBookSearch.git"}
                 />
                 
             </div>
