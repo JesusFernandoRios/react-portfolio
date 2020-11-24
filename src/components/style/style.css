@@ -145,6 +145,7 @@ canvas {
 }
 
 .project__img {
+    max-width: 90%;
     max-height: 150px;
     object-fit: contain;
     margin-bottom: 10px;
