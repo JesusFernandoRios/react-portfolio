@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab9dac93a601d77c2c829dd1618f44e7",
+    "revision": "8b1a29d0059cfd1d77092385ca346249",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "15137c45a2180d88c07c",
-    "url": "/react-portfolio/static/css/main.2c9941f7.chunk.css"
+    "revision": "a5810ff49d45a9c2dd03",
+    "url": "/react-portfolio/static/css/main.9bdeb822.chunk.css"
   },
   {
     "revision": "6c7c8351bb551de10f4f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.8c43a35d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15137c45a2180d88c07c",
-    "url": "/react-portfolio/static/js/main.38bd1172.chunk.js"
+    "revision": "a5810ff49d45a9c2dd03",
+    "url": "/react-portfolio/static/js/main.33715bd4.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3c88669d2e55050be67d4abc98aaa3e9",
     "url": "/react-portfolio/static/media/Dayplanner.3c88669d.png"
-  },
-  {
-    "revision": "fecb995b760b2846e438037bcca1312e",
-    "url": "/react-portfolio/static/media/In-quotations.fecb995b.png"
   },
   {
     "revision": "65425295466ed36d0c24d4eaf0032a7a",
@@ -42,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3008593d92ad0d17d933cdaa77baadba",
     "url": "/react-portfolio/static/media/codequiz.3008593d.png"
+  },
+  {
+    "revision": "06726ab956a3feff5362d263ba51086b",
+    "url": "/react-portfolio/static/media/googlebksrch.06726ab9.png"
   },
   {
     "revision": "4702984d1ccdac3a8a85c059650434f3",
