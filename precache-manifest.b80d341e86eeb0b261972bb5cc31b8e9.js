@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e0803a475b54f301a0814a35f0e0a51",
+    "revision": "c7c353d5adf28f78844f549f82e2ae9e",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "4267c824d10642a82fc5",
-    "url": "/react-portfolio/static/css/main.f6ab27fd.chunk.css"
+    "revision": "b1ba8e24d3c59ef25acc",
+    "url": "/react-portfolio/static/css/main.d8546f8c.chunk.css"
   },
   {
     "revision": "6c7c8351bb551de10f4f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.8c43a35d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4267c824d10642a82fc5",
-    "url": "/react-portfolio/static/js/main.5233e718.chunk.js"
+    "revision": "b1ba8e24d3c59ef25acc",
+    "url": "/react-portfolio/static/js/main.a1b2e983.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3008593d92ad0d17d933cdaa77baadba",
     "url": "/react-portfolio/static/media/codequiz.3008593d.png"
+  },
+  {
+    "revision": "518bd150e9334d73dcaaf17976f3d1bd",
+    "url": "/react-portfolio/static/media/covid.518bd150.png"
   },
   {
     "revision": "06726ab956a3feff5362d263ba51086b",
@@ -70,9 +74,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "61ad53edfde2e4628246a44f66fb43d2",
     "url": "/react-portfolio/static/media/notetaker.61ad53ed.png"
-  },
-  {
-    "revision": "287067efabb11f4764362d1892b30d96",
-    "url": "/react-portfolio/static/media/weather-app.287067ef.png"
   }
 ]);
