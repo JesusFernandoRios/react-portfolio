@@ -242,6 +242,11 @@ button:hover {
     color: white;
 }
 
+.fa-check-circle{
+    background: white;
+    color: lightskyblue;
+}
+
 #footergit {
     background: white;
     color:black;
